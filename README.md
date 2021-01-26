@@ -1,7 +1,7 @@
-<h1 align="center">Responsive Web</h1>
+<h1 align="center">Responsive Web Cakery (Dark/light)</h1>
 
 ## Live Preview 🔧
-
+<a href="https://jean-carje.github.io/Responsive-website-cakery-main/">Page Live Preview</a>
 <a href="https://codepen.io/carje/full/WNGVZpd">Codepen</a>
 
 ### :camera: Screenshot
